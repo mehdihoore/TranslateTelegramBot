@@ -1,8 +1,11 @@
 # TranslateTelegramBot
 یک ربات تلگرام برای ترجمه متون ارسالی به انگلیسی و فارسی. 
 یک کد ساده برای ساخت ربات تلگرام مترجم:
+
 اول از بات [BotFather](https://t.me/BotFather)  یک توکن میگیرید.
+
 بعد برای سرور می‌تونید توی https://www.pythonanywhere.com/ یک اکانت رایگان بسازید.
+
 بعد توی Bash ماژولها رو نصب کنید:
 
 pip install python-telegram-bot==13.7

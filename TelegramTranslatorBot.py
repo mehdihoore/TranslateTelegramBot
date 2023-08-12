@@ -6,7 +6,7 @@ from googletrans import Translator
 
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
 
-TOKEN = '6430393936:AAEiIcSsLd4p3nxpoa9s4HDfQL273Y7__v8'
+TOKEN = 'YOUR_TELEGRAM_BOT_TOKEN'
 updater = Updater(token=TOKEN, use_context=True)
 dispatcher = updater.dispatcher
 
